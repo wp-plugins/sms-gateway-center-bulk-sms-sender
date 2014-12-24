@@ -71,7 +71,7 @@ Just use your registered username and password in the settings page.
 4. Short code Report Page
 
 == Changelog ==
-See complete changelog [here.](http://plugins.svn.wordpress.org/sms-gateway-center=bulk-sms-sender/trunk/changelog.txt)
+See complete changelog [here.](http://plugins.svn.wordpress.org/sms-gateway-center-bulk-sms-sender/trunk/changelog.txt)
 
 == Upgrade Notice ==
 See Update Version History
