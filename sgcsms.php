@@ -4,7 +4,7 @@ Plugin Name: SMS Gateway Center Bulk SMS Sender
 Plugin URI: http://www.smsgatewaycenter.com
 Description: Wp plugin to send bulk SMS from wp sites. Send Bulk SMS from any wp site. This is a plugin for www.smsgatewaycenter.com. You will have to be a registered member to use this plugin.
 Version: 1.2
-Author: Raghhav Sammrat
+Author: SMS Gateway Center
 Author URI: http://www.smsgatewaycenter.com
 License: GPL3
 Text Domain: SGCSMS
