@@ -3,8 +3,8 @@ Contributors: SMS Gateway Center
 Donate link: http://www.smsgatewaycenter.com/
 Tags: SMS, Bulk SMS, SMS message, Message, SMS India, SMS Gateway, bulk SMS sender, Send SMS, sms gateway, smsgatewaycenter.com, mobile message, text sms 
 Requires at least: 3.1
-Tested up to: 4.2.2
-Stable tag: 1.3
+Tested up to: 4.3
+Stable tag: 1.2
 License: GPL3
 
 You need to be a regd member of www.smsgatewaycenter.com. Install this simple plugin and start sending bulk sms. This gateway only supports India.
